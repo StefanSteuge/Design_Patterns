@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b7d8d8-8fd1-4bd8-8d8d-6c5add8fee05" name="Changes" comment="added Connection Factory example with all classes">
-      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Alien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gamesObjects/EnemyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Neighbour.java" afterDir="false" />
+    <list default="true" id="83b7d8d8-8fd1-4bd8-8d8d-6c5add8fee05" name="Changes" comment="added Enemy Factory example with all classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688730777942</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added Enemy Factory example with all classes">
+      <created>1688732058482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688732058482</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +136,7 @@
     <MESSAGE value="added readme file" />
     <MESSAGE value="added ShapeFactory example with all classes" />
     <MESSAGE value="added Connection Factory example with all classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Connection Factory example with all classes" />
+    <MESSAGE value="added Enemy Factory example with all classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Enemy Factory example with all classes" />
   </component>
 </project>
