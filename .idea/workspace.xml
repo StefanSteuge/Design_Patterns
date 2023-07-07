@@ -4,9 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b7d8d8-8fd1-4bd8-8d8d-6c5add8fee05" name="Changes" comment="added Enemy Factory example with all classes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="83b7d8d8-8fd1-4bd8-8d8d-6c5add8fee05" name="Changes" comment="added readme file to the Abstract Factory pattern">
+      <change beforePath="$PROJECT_DIR$/src/dataConnection/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataConnection/DataBaseConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataConnection/DataConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataConnection/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataConnection/WebServiceConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamesObjects/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamesObjects/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamesObjects/EnemyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamesObjects/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamesObjects/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gamesObjects/Neighbour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometric_Shape/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometric_Shape/GeometricShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometric_Shape/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometric_Shape/ShapeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geometric_Shape/Square.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +58,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RunManager" selected="Application.gamesObjects.Main">
@@ -118,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688732058482</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added readme file to the Abstract Factory pattern">
+      <created>1688734094413</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688734094413</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +159,11 @@
     <MESSAGE value="added ShapeFactory example with all classes" />
     <MESSAGE value="added Connection Factory example with all classes" />
     <MESSAGE value="added Enemy Factory example with all classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Enemy Factory example with all classes" />
+    <MESSAGE value="added readme file to the Abstract Factory pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readme file to the Abstract Factory pattern" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
