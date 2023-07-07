@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b7d8d8-8fd1-4bd8-8d8d-6c5add8fee05" name="Changes" comment="added ShapeFactory example with all classes">
-      <change afterPath="$PROJECT_DIR$/src/dataConnection/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataConnection/DataBaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataConnection/DataConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataConnection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataConnection/WebServiceConnection.java" afterDir="false" />
+    <list default="true" id="83b7d8d8-8fd1-4bd8-8d8d-6c5add8fee05" name="Changes" comment="added Connection Factory example with all classes">
+      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Enemy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/gamesObjects/EnemyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gamesObjects/Neighbour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.gamesObjects.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dataConnection.Main" />
       <module name="Design_Patterns" />
@@ -66,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gamesObjects.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gamesObjects.Main" />
+      <module name="Design_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gamesObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gamesObjects.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -95,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688729849830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added Connection Factory example with all classes">
+      <created>1688730777942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688730777942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added readme file" />
     <MESSAGE value="added ShapeFactory example with all classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ShapeFactory example with all classes" />
+    <MESSAGE value="added Connection Factory example with all classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Connection Factory example with all classes" />
   </component>
 </project>
