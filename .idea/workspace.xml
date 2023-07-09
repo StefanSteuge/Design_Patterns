@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83b7d8d8-8fd1-4bd8-8d8d-6c5add8fee05" name="Changes" comment="">
+    <list default="true" id="83b7d8d8-8fd1-4bd8-8d8d-6c5add8fee05" name="Changes" comment="added readme file to Builder branch">
+      <change afterPath="$PROJECT_DIR$/src/Order/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -15,6 +23,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +54,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car.Main" />
+      <module name="Design_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1688723133972</updated>
     </task>
+    <task id="LOCAL-00001" summary="added readme file to Builder branch">
+      <created>1688896424500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688896424500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,6 +103,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added readme file to Builder branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readme file to Builder branch" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
